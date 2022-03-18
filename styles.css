@@ -36,3 +36,25 @@ input {
 img {
 	max-width: 300px;
 }
+
+h2 {
+	text-decoration: wavy;
+	color: rgb(146, 78, 78);
+}
+
+.button-1 {
+	height: 40px;
+	width: 150px;
+	border-color: yellow;
+	
+}
+.button-2 {
+	height: 40px;
+	width: 150px;
+	border-color: yellow;
+}
+.button-3 {
+	height: 40px;
+	width: 150px;
+	border-color: yellow;
+}
